@@ -7,12 +7,12 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-colocar aqui o gif
+![globo-clone](https://user-images.githubusercontent.com/50848988/229142625-e90d435d-98af-44ad-9c21-33547c21834e.gif)
 
 
 
 <p align="center"> Para visualizar o projeto no seu navegador:
-  colocar o a aqui
+  <a href="https://globo-clone.netlify.app/"><a/>
 </p>
 
 <br>
