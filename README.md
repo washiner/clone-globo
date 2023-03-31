@@ -27,5 +27,5 @@ Esse projeto foi desenvolvido com HTML e CSS:
 
 ## 💻 Projeto
 
-Este projeto mostra os conhecimentos principalmente em HTML e CSS como tags, divs, semântica, posicionamento dos elementos em tela Utilizando conceitos importantíssimos como flex-box lembrando que tudo foi feito em código puro sem uso de framework ou bibliotecas.
+Este projeto mostra os conhecimentos principalmente em HTML e CSS como tags, divs, semântica, posicionamento dos elementos em tela Utilizando conceitos importantíssimos como flex-box lembrando que tudo foi feito em código puro sem uso de frameworks ou bibliotecas.
 
