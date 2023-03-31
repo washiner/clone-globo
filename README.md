@@ -12,7 +12,7 @@
 
 
 <p align="center"> Para visualizar o projeto no seu navegador:
-  <a href="https://globo-clone.netlify.app/" target="blanck">Click Aqui<a/>
+  <a href="https://globo-clone.netlify.app/" target="_blanck">Click Aqui<a/>
 </p>
 
 <br>
